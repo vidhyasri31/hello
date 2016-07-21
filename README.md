@@ -5,3 +5,6 @@
 <p>CASE TOOLS LAB 2</p>
 </body>
 </html>
+<?php
+echo "MS SOFTWARE ENGINEERING";
+?>
